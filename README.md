@@ -13,7 +13,11 @@ Creating an HTML profile using input from the command line for the development t
 * Run genarated HTML on the browser
 
 ## Video Capture of the Running Application Local Environment
- https://screencast-o-matic.com/watch/crlI6ZV2wOw
+
+ <iframe width=1280 height=800 style="border:0;" scrolling="no" 
+         src="https://screencast-o-matic.com/player/crlI6ZV2wOw?width=1280&height=800&ff=1&title=0&a=1" 
+         allowfullscreen="true">
+</iframe>
 
 ## Screenshots of Running Application On the Browser
 
