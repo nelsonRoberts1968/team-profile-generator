@@ -12,15 +12,23 @@ Creating an HTML profile using input from the command line for the development t
 * Html will be generated
 * Run genarated HTML on the brouwser
 
-## Screenshots of Running Application
+
+## Screenshots of Running Application On the Browser
+
+* Running Application  of the generated HTML fine on the browser
+
+![Image of runing Application on the Browser](assets/images/running-application.png)
+
+
+## Screenshots of Running Application In Command Line!!
 
 * Running Application on command line with Question Prompts
 
 ![Image of runing Application](assets/images/running-app.png)
 
 
-
 ## Screenshots of Tests
+
 
 *  Passing Employee Test
 
@@ -31,12 +39,15 @@ Creating an HTML profile using input from the command line for the development t
 ![Image of A passing Manager Test](assets/images/manager-test-pass.png)
 
 * Passing Engineer Test
+
 ![Image of Passing Engineer Test](assets/images/engineer-test-pass.png)
 
 * Passing Intern Test
+
 ![Image of a pssing intern Test](assets/images/intern-test-pass.png)
 
 * All Tests Passing
+
 ![Image of all tests pass](assets/images/all-tests-pass.png)
 
 
