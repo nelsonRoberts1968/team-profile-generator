@@ -1,22 +1,31 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Developes a team profile",
+  "main": "app.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "__tests__"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nelsonRoberts1968/team-profile-generator.git"
+    "url": "git+https://github.com/nelsonRoberts1968/team-profile-generator"
   },
-  "author": "",
+  "author": "Nelson Roberts",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nelsonRoberts1968/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/nelsonRoberts1968/team-profile-generator#readme"
+  "homepage": "https://github.com/nelsonRoberts1968/team-profile-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
 }
