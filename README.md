@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Creating an HTML profile using input from the command line for the development team.
+Creating an HTML profile using input from the command line for the development team.Please see screen hsots below for more details.
 
 ## Installation instructions 
 
@@ -12,6 +12,8 @@ Creating an HTML profile using input from the command line for the development t
 * HTML will be generated
 * Run genarated HTML on the browser
 
+## Video Capture of the Running Application Local Environment
+![Video of project](https://screencast-o-matic.com/watch/crlI6ZV2wOw)
 
 ## Screenshots of Running Application On the Browser
 
@@ -28,7 +30,6 @@ Creating an HTML profile using input from the command line for the development t
 
 
 ## Screenshots of Tests
-
 
 *  Passing Employee Test
 
