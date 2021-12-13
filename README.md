@@ -14,10 +14,8 @@ Creating an HTML profile using input from the command line for the development t
 
 ## Video Capture of the Running Application Local Environment
 
- <iframe width=1280 height=800 style="border:0;" scrolling="no" 
-         src="https://screencast-o-matic.com/player/crlI6ZV2wOw?width=1280&height=800&ff=1&title=0&a=1" 
-         allowfullscreen="true">
-</iframe>
+https://screencast-o-matic.com/player/crlI6ZV2wOw?width=1280&height=800&ff=1&title=0&a=1
+
 
 ## Screenshots of Running Application On the Browser
 
