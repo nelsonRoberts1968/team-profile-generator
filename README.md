@@ -7,10 +7,10 @@ Creating an HTML profile using input from the command line for the development t
 ## Installation instructions 
 
 * Clone git repository.
-* In the same directory the porject in cloned in..Run npm install
+* In the same directory the project in cloned in..Run npm install
 * Answer all prompts
-* Html will be generated
-* Run genarated HTML on the brouwser
+* HTML will be generated
+* Run genarated HTML on the browser
 
 ## Screenshots of Running Application
 
